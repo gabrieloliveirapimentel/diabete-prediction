@@ -1,5 +1,3 @@
-# diabete-prediction
-
 <h1 align="center"> 
 	Diabete Prediction
 </h1>
